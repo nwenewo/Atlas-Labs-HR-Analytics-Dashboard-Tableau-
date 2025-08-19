@@ -49,7 +49,6 @@ This project focuses on **HR Analytics** using Tableau. The dashboard provides a
 
 * The **20–29 age group** forms the majority of the workforce.
 * Employees with **frequent or some travel** show higher attrition rates.
-* **Attrition spikes** during certain hiring months (e.g., June, December).
 * Early tenure (0–2 years) shows **higher attrition**, suggesting onboarding/retention challenges.
 
 ## 📂 Dataset Source
